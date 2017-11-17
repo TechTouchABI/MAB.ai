@@ -1,6 +1,10 @@
 ## MAB.ai
 # Multi-Armed Bandit AI
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/TechTouchABI/MAB.ai/blob/master/MAB_ALGO.PNG">
+</p>
+
 Reinforcement learning is learning what to do - how to map situations to actions - so as to maximize a numerical reward signal.
 The learner is not told which actions to take, as in most forms of machine learning, but instead must discover which actions
 yield the most reward by trying them. In the most interesting and challenging cases, actions may affect not only
